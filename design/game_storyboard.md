@@ -1,67 +1,49 @@
 # Project One Storyboard | Text-Based Adventure Game
 
-> Complete the `TODO:` prompts using your own game idea. This file is a graded
-> Project One deliverable and later becomes a reference for Project Two.
-
 ## Theme and Storyline
 
 **Theme:**
 
-TODO: Name and briefly describe your game's theme.
+Mystery / Home Intruder Adventure
 
 **Storyline:**
 
-TODO: In one short paragraph, explain the setting, the player's goal, the items
-the player must gather, and the threat created by the villain.
+The player is trapped inside a house with a mysterious stranger hiding somewhere inside. The goal is to search the house and collect six important items that will help uncover what is happening and provide the evidence needed to escape safely. The player must collect the Cell Phone, Key, Laptop, Flashlight, Security Footage, and Secret Letter while moving through the different rooms of the house. The player must avoid the Living Room, where The Stranger is waiting, until all six items have been collected. If the player encounters The Stranger too soon, the game is over.
 
 ## Rooms
 
-Project One requires a minimum of eight rooms.
-
-1. TODO: Start room
-2. TODO: Room
-3. TODO: Room
-4. TODO: Room
-5. TODO: Room
-6. TODO: Room
-7. TODO: Room
-8. TODO: Villain room
-
-Add more rooms if your design needs them.
+1. Foyer - Start Room
+2. Kitchen
+3. Bedroom
+4. Office
+5. Basement
+6. Garage
+7. Library
+8. Living Room - Villain Room
 
 ## Items
 
-With the minimum eight-room design, Project One requires at least six items.
-Every room except the start room and villain room must contain one item.
-
-1. TODO: Item
-2. TODO: Item
-3. TODO: Item
-4. TODO: Item
-5. TODO: Item
-6. TODO: Item
-
-If you add rooms beyond the minimum, add an item for every additional room
-except the start room and villain room.
+1. Cell Phone
+2. Key
+3. Laptop
+4. Flashlight
+5. Security Footage
+6. Secret Letter
 
 ## Villain
 
-TODO: Identify and briefly describe the villain.
+The Stranger is a mysterious intruder hiding in the Living Room. The player must avoid The Stranger until all six items have been collected.
 
 ## Storyboard and Map Check
 
-Before submitting, compare this storyboard with `game_map.drawio`.
-
-* [ ] I included eight (8) rooms.
-* [ ] I included six (6) collectable items.
-* [ ] The start room has no item.
-* [ ] The villain room has no item.
-* [ ] Every room except the start room and villain room contains one item.
-* [ ] Room, item, and villain names match my map.
-* [ ] The map allows the player to collect all required items before the
-  villain is encountered.
+- [x] I included eight (8) rooms.
+- [x] I included six (6) collectible items.
+- [x] The start room has no item.
+- [x] The villain room has no item.
+- [x] Every room except the start room and villain room contains one item.
+- [x] Room, item, and villain names match my map.
+- [x] The map allows the player to collect all required items before the villain is encountered.
 
 ## Project Two Handoff
 
-Keep this file after Project One. In Module Seven, use these names and design
-choices when building the final room/item dictionary and player-facing output.
+Keep this file after Project One. In Module Seven, use these names and design choices when building the final room/item dictionary and player-facing output.
